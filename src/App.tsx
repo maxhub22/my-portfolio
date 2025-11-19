@@ -150,8 +150,8 @@ const PortfolioLanding = () => {
     { name: 'Premiere Pro', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1024px-Adobe_Premiere_Pro_CC_icon.svg.png', color: 'border-purple-500', shadow: 'shadow-purple-500/50' },
     { name: 'After Effects', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1024px-Adobe_After_Effects_CC_icon.svg.png', color: 'border-indigo-500', shadow: 'shadow-indigo-500/50' },
     { name: 'Photoshop', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png', color: 'border-blue-500', shadow: 'shadow-blue-500/50' },
-    { name: 'CapCut', icon: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Capcut-logo.png', color: 'border-white', shadow: 'shadow-white/30' },
-    { name: 'Canva', icon: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg', color: 'border-cyan-400', shadow: 'shadow-cyan-400/50' },
+    { name: 'CapCut', icon: 'https://play-lh.googleusercontent.com/NafAciugdQk6L7_D0cmNq8cypX0pvA88h9DzlxIJQbPd3caZM3_S5-nZedHdnrcq_wCm=w240-h480-rw', color: 'border-white', shadow: 'shadow-white/30' },
+    { name: 'Canva', icon: 'blob:https://onedrive.live.com/9443595f-2df1-42fd-b6cd-5f3a9fbf53d9', color: 'border-cyan-400', shadow: 'shadow-cyan-400/50' },
   ];
 
   return (
