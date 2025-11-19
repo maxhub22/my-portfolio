@@ -14,7 +14,7 @@ const PortfolioLanding = () => {
   const [contactMessage, setContactMessage] = useState('');
   const [isRefining, setIsRefining] = useState(false);
 
-  const apiKey = ""; // เว้นว่างไว้ Environment จะจัดการให้เอง
+  const apiKey = "AIzaSyD-xoe3kC3x0YW_MevFl_Faa1LHgAK5nTw"; // เว้นว่างไว้ Environment จะจัดการให้เอง
 
   // จัดการ Effect ตอนเลื่อนหน้าจอเพื่อเปลี่ยนสี Navbar
   useEffect(() => {
