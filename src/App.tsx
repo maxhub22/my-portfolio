@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Play, Video, Monitor, Layers, Mail, Instagram, Facebook, Twitter, ChevronRight, ExternalLink, Camera, Linkedin, Youtube, Sparkles, Wand2, Loader2, Lightbulb, CheckCircle2 } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Video, Monitor, Layers, Mail, Instagram, Facebook, Twitter, ChevronRight, ExternalLink, Linkedin, Youtube, Sparkles, Wand2, Loader2, Lightbulb, CheckCircle2 } from 'lucide-react';
 
 const PortfolioLanding = () => {
   const [scrolled, setScrolled] = useState(false);
