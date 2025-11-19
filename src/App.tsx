@@ -151,7 +151,7 @@ const PortfolioLanding = () => {
     { name: 'After Effects', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1024px-Adobe_After_Effects_CC_icon.svg.png', color: 'border-indigo-500', shadow: 'shadow-indigo-500/50' },
     { name: 'Photoshop', icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png', color: 'border-blue-500', shadow: 'shadow-blue-500/50' },
     { name: 'CapCut', icon: 'https://play-lh.googleusercontent.com/NafAciugdQk6L7_D0cmNq8cypX0pvA88h9DzlxIJQbPd3caZM3_S5-nZedHdnrcq_wCm=w240-h480-rw', color: 'border-white', shadow: 'shadow-white/30' },
-    { name: 'Canva', icon: 'blob:https://onedrive.live.com/9443595f-2df1-42fd-b6cd-5f3a9fbf53d9', color: 'border-cyan-400', shadow: 'shadow-cyan-400/50' },
+    { name: 'Canva', icon: 'https://onedrive.live.com/?photosData=%2Fshare%2F8301EF5E46ACDBB8%21s1d822ff860084c908aab0f8f1e9cfa00%3Fithint%3Dphoto%26e%3Dgn8Fom%26migratedtospo%3Dtrue&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy84MzAxZWY1ZTQ2YWNkYmI4L0VmZ3ZnaDBJWUpCTWlxc1BqeDZjLWdBQkV4VkJnbFkyS2Fxb2U4d3VTWElBQkE%5FZT1nbjhGb20&view=8', color: 'border-cyan-400', shadow: 'shadow-cyan-400/50' },
   ];
 
   return (
