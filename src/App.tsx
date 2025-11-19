@@ -370,11 +370,11 @@ const PortfolioLanding = () => {
             {/* Optional: Keep Stats below or separate if needed. Currently replacing stats banner with this grid for better focus as requested. */}
             <div className="mt-12 flex flex-wrap justify-center gap-8 md:gap-16 text-center border-t border-[#262626] pt-8 max-w-4xl mx-auto opacity-80">
                 <div>
-                    <p className="text-2xl font-bold text-white">50+</p>
+                    <p className="text-2xl font-bold text-white">300+</p>
                     <p className="text-gray-500 text-xs uppercase tracking-wider">Projects</p>
                 </div>
                 <div>
-                    <p className="text-2xl font-bold text-white">3 Years</p>
+                    <p className="text-2xl font-bold text-white">5 Years</p>
                     <p className="text-gray-500 text-xs uppercase tracking-wider">Experience</p>
                 </div>
                 <div>
