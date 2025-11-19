@@ -215,7 +215,7 @@ const PortfolioLanding = () => {
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full p-1 gradient-bg profile-glow">
                 {/* แก้ไขกลับเป็นรูป Unsplash เนื่องจาก Link Google Photos ไม่สามารถแสดงผลแบบ Public ได้ */}
                 <img 
-                  src="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=800" 
+                  src="https://scontent.fnak1-1.fna.fbcdn.net/v/t39.30808-6/529363886_24432378046402816_3692814791908791366_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEGZ2XLURgu0ZbLG1bAoxyLckym8_5RTeZyTKbz_lFN5rioeAfWkvQrtUPgylDOv3jN9CX0hhLWdmqMVDlHhkF6&_nc_ohc=axR0t9a2o34Q7kNvwGYIkV-&_nc_oc=AdltgXTLPVxRhhCygKbodp0GUn5MMh1384q9vZDWfnf40zFn95wrL-I96LrWAmMOvJc&_nc_zt=23&_nc_ht=scontent.fnak1-1.fna&_nc_gid=Aw9vDRwwsRwQfYceca7GLw&oh=00_Afj4wF4-bvfdA2RwBD2T_2sGsAFuKBU5NpAzt1H7XU9Saw&oe=69236521" 
                   alt="Profile" 
                   className="w-full h-full object-cover rounded-full border-4 border-slate-950"
                 />
